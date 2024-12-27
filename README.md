@@ -36,8 +36,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: PRIYAADARSHINI K
-RegisterNumber:212223240126*/
+Developed by:P.KABILAN
+RegisterNumber:24900859
 ```
 module booleanfunction(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
